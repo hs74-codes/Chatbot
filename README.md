@@ -23,12 +23,13 @@ You can run it locally or host it online for others to use.
 
 ---
 
-## 📸 Screenshots
 
-Below is a preview of the Chatbot in action:
+## 📸 Chatbot Preview
 
-![Chatbot Screenshot](screenshots/chatbot_ui1.png)
-![Chatbot Screenshot](screenshots/chatbot_ui2.png)
+<p align="center">
+  <img src="screenshots/chatbot_ui1.png" alt="Chatbot Screenshot 1" width="300"/>
+  <img src="screenshots/chatbot_ui2.png" alt="Chatbot Screenshot 2" width="300"/>
+</p>
 
 ---
 
